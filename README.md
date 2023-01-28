@@ -1,2 +1,7 @@
-# POlitecnica
-Prueba operacionbal de Concepto
+# Politecnica
+Prueba operacional de Concepto
+
+Mi codigo fuente
+
+
+class{
