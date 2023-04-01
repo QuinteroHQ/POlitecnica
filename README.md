@@ -1,2 +1,2 @@
-# POlitecnica
-Prueba operacionbal de Concepto
+# Politecnica
+Prueba operacional de Concepto
